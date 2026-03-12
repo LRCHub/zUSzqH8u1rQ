@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "謝々！",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-03-12T00:14:44.643073Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "謝々!",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/01_謝々!_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "謝々!",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/02_謝々!_Spitz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "謝々!",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_謝々!_スピッツ.txt"
+    }
+  ]
+}
